@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    std::cout << "O Rose thou art sick.\n"
+    cout << "O Rose thou art sick.\n"
         "The invisible worm,\n"
         "That flies in the night\n"
         "In the howling storm:\n"
